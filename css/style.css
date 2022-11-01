@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;700;800;900&display=swap');
+
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	color: #000000;
+	font-weight: 300;
+}
+
+
+header{
+	background-color:transparent;
+	position: absolute;
+	width: 100%;
+}
+
+
+#hero{
+	background-image: url("../img/maxresdefault.png");
+	background-color: #FFFFFF;
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10% 20% ;
+	padding-top: 8%;
+	color: #FFFFFF;
+}
+
+
+.bg-hero{
+	background-color: rgba(0,0,0,0.80);
+	width: 60%;
+	padding: 5px 8px;
+	margin-top: 35%;
+	margin-left: -20%;
+}
+
+.titulo{
+	font-weight: 800;
+}
+
+#hero p{
+	font-size: 20px;
+	font-weight: 100;
+	margin-bottom: -10%;
+}
+
+
+#inspo{
+	padding: 100px 0;
+}
+
+#inspo .mar-left{
+	margin-left: 20%;
+}
+
+.mar-left{
+	outline: 1px solid #000000;
+    outline-offset: 20px;
+}
+
+
+#product{
+	padding: 150px 0;
+	margin-top: -5%;
+}
+
+
+.bg-img{
+	background-image: url("../img/3_landing-page-fenty.jpeg");
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 400px 80px;
+}
+
+#product h2, #product p, #product .btn-fenty{
+	margin-left: 120px;
+}
+
+#product h2{
+	margin-top: 30%;
+}
+
+.btn-fenty{
+	background-color: #FFFFFF;
+	font-weight: 900;
+	padding: 12px 20px;
+	border: 1px solid #000000;
+	border-radius: 0;
+}
+
+
+iframe{
+	outline: 1px solid #000000;
+    outline-offset: 20px;
+	margin-left: 10%;
+}
+
+
+footer{
+	padding: 80px 0;
+	color: #FFFFFF;
+	background-color: #000000;
+	margin-top: 5%;
+}
+
+
+footer h2{
+	margin-left: 30px;
+}
+
+footer li{
+	font-size: 16px;
+	font-weight: 100;
+}
+
+
+i{
+	text-align: center;
+	font-size: 20px;
+	color: #FFFFFF;
+	position: relative;
+	left: 100px;
+	top:15px;
+}
+
+
+#instagram, #feedback, #shades, #contact{
+	padding: 100px 0;
+}
+#instagram .titulo{
+	text-align: center;
+}
+
+
+.mar-top{
+	margin-top: -2%;
+	margin-left: 9%;
+}
+
+.mar-right{
+	position: relative;
+	right: -40px;
+	top: 3px;
+}
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+	background-color: #000000;
+	padding: 20px 20px;
+}
+
+.info{
+	margin-top: 95px;
+}
+
+.carousel-pos{
+	margin-left: 15%;
+}
+
+#shades h2{
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+#shades p, #shades a{
+	margin-left: 5%;
+}
+ #shades .img-marg{
+	margin-top: 17%;
+}
+
+#shades p{
+	margin-top: 45px;
+	background-color: transparent;
+	border: solid 1px #000000;
+	width: 485px;
+	height: 40px;
+	padding: 6px 0;
+	font-size: 16px;
+	text-align: center;
+}
+
+.btn-add{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-weight: 900;
+	border-radius: 0;
+	width: 485px;
+	height: 40px;
+}
+
+
+#contact{
+	background-image: url("../img/hero-22.jpg");
+	background-position: top center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.info{
+	position: relative;
+	top:-90px;
+}
+
+#contact h2{
+	position: relative;
+	top: 50px;
+	margin-bottom: 10%;
+}
+.bg-white{
+text-align: center;
+width: 50%;
+height: 290px;
+}
+
+.mc-field-group, .button{
+	margin-top: 2%;
+}
+
+
+.button{
+	background-color: #000000;
+	color: #FFFFFF;
+	font-weight: 900;
+}
